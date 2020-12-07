@@ -329,6 +329,7 @@ export default [
     'paradigms?( shift)?',
     'partner(ships?)?',
     'patents?',
+    'parameter.',
     'people.focus(ed|sed)',
     'performance indicators',
     'perfect(ly)?',
